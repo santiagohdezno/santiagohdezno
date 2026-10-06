@@ -12,7 +12,9 @@ I spent the last year and a half on the manufacturing floor at TE Connectivity, 
 ## 🛠 Tech
 
 **Working with:** JavaScript · HTML · CSS · Git · GitHub Pages · REST APIs
+
 **Learning:** React · Node.js · Express
+
 **From engineering:** Python · C++ · PLC ladder logic
 
 ## 📌 Projects
